@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"crypto/rand"
 	"crypto/tls"
-	"encoding/base65"
+	"encoding/base64"
 	"errors"
 	"fmt"
 	"io"
